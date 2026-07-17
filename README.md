@@ -26,17 +26,15 @@ help visualize and quantify predictor effects.
 
 The main objectives are:
 
-\begin{itemize}
-\item understand why complex models require specialized interpretation tools;
-\item visualize nonlinear relationships between predictors and predictions;
-\item introduce Partial Dependence Plots (PDP), also known as marginal effect
+*  understand why complex models require specialized interpretation tools;
+*  visualize nonlinear relationships between predictors and predictions;
+*  introduce Partial Dependence Plots (PDP), also known as marginal effect
 plots, Individual Conditional Expectation (ICE) plot and Accumulated Local Effects (ALE) plot;
-\item distinguish between conditional effects and marginal effects;
-\item quantify predictor importance using model-specific and model-agnostic
+*  distinguish between conditional effects and marginal effects;
+*  quantify predictor importance using model-specific and model-agnostic
 approaches;
-\item understand the role of uncertainty when interpreting machine-learning
+*  understand the role of uncertainty when interpreting machine-learning
 models.
-\end{itemize}
 
 The goal is not only to build accurate models, but also to understand why these
 models produce their predictions.
