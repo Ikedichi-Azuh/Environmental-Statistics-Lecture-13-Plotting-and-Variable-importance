@@ -20,7 +20,7 @@ through many nonlinear transformations and interactions between variables.
 Therefore, an important question after fitting a predictive model is:
 
 \[
-\textit{How can we understand what the model has learned?}
+*How can we understand what the model has learned?*
 \]
 
 This lecture introduces methods from explainable machine learning (xAI) that
